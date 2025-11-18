@@ -1,0 +1,15 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#f7f2ea"/>
+  <ellipse cx="400" cy="340" rx="260" ry="90" fill="#f5e0b5"/>
+  <ellipse cx="400" cy="330" rx="240" ry="75" fill="#f2cf8d"/>
+  <path d="M170 320 C260 260 340 380 430 310 C520 240 600 360 630 300" stroke="#e7a835" stroke-width="16" fill="none" stroke-linecap="round"/>
+  <path d="M180 350 C260 290 340 410 430 340 C520 270 600 390 620 330" stroke="#f2b549" stroke-width="14" fill="none" stroke-linecap="round"/>
+  <circle cx="260" cy="310" r="10" fill="#e45858"/>
+  <circle cx="520" cy="320" r="10" fill="#e45858"/>
+  <circle cx="420" cy="350" r="10" fill="#e45858"/>
+  <circle cx="340" cy="300" r="6" fill="#8bbf7a"/>
+  <circle cx="470" cy="295" r="6" fill="#8bbf7a"/>
+  <circle cx="380" cy="360" r="6" fill="#8bbf7a"/>
+  <text x="400" y="140" text-anchor="middle" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="40" fill="#2b3a2e">Rebound Cafe</text>
+  <text x="400" y="190" text-anchor="middle" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="26" fill="#6b705c">Comfort Pasta Bowl</text>
+</svg>

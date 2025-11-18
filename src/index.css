@@ -1,0 +1,89 @@
+@import "tailwindcss";
+
+/* Brand tokens using CSS variables */
+:root {
+  --rebound-bg: #fdfbf6;
+  --rebound-text: #1e3f20;
+  --rebound-accent: #4c7c4c;
+
+  --rebound-heading-font: "Playfair Display", ui-serif, Georgia, "Times New Roman", serif;
+  --rebound-body-font: "Montserrat", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+@layer base {
+  *, *::before, *::after {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    min-height: 100vh;
+    background-color: var(--rebound-bg);
+    color: var(--rebound-text);
+    font-family: var(--rebound-body-font);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--rebound-heading-font);
+    letter-spacing: 0.04em;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+}
+
+/* Utility helpers built on top of Tailwind */
+@layer utilities {
+  .bg-rebound-bg {
+    background-color: var(--rebound-bg);
+  }
+
+  .animate-spin-slow {
+    animation: spin 2.8s linear infinite;
+  }
+
+  .text-rebound-text {
+    color: var(--rebound-text);
+  }
+
+  .bg-rebound-accent {
+    background-color: var(--rebound-accent);
+  }
+
+  .text-rebound-accent {
+    color: var(--rebound-accent);
+  }
+
+  .btn-primary {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 9999px;
+    padding: 0.75rem 1.5rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    box-shadow: 0 8px 18px rgba(0, 0, 0, 0.08);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    background-color: var(--rebound-accent);
+    color: var(--rebound-bg);
+  }
+
+  .btn-primary:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 14px 30px rgba(0, 0, 0, 0.12);
+  }
+
+  .btn-primary:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(249, 250, 251, 1), 0 0 0 4px rgba(76, 124, 76, 0.7);
+  }
+}

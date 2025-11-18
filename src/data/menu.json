@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "category": "SANDWICH",
+    "name": "Veg Sandwich",
+    "price": 100,
+    "description": "Classic veg sandwich with fresh crunchy veggies and a light house spread.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 2,
+    "category": "SANDWICH",
+    "name": "Veg Cheese Sandwich",
+    "price": 120,
+    "description": "A comforting veg sandwich generously layered with melted cheese.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 3,
+    "category": "SANDWICH",
+    "name": "Corn Cheese Sandwich",
+    "price": 140,
+    "description": "Sweet corn and gooey cheese in a perfectly toasted sandwich.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 4,
+    "category": "SANDWICH",
+    "name": "Veg Club Sandwich",
+    "price": 160,
+    "description": "Triple-layered club sandwich stacked with fresh veggies and sauces.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 5,
+    "category": "SANDWICH",
+    "name": "Paneer Tikka Sandwich",
+    "price": 180,
+    "description": "Smoky paneer tikka stuffed into grilled bread with crisp veggies.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 6,
+    "category": "BUN'S",
+    "name": "Butter Bun",
+    "price": 60,
+    "description": "Soft, lightly toasted bun slathered with creamy butter.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 7,
+    "category": "BUN'S",
+    "name": "Jam Bun",
+    "price": 80,
+    "description": "Fluffy bun with a sweet, nostalgic fruit jam center.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 8,
+    "category": "BUN'S",
+    "name": "Peanut Butter Bun",
+    "price": 100,
+    "description": "Toasted bun spread with rich, nutty peanut butter.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 9,
+    "category": "BUN'S",
+    "name": "Cheese Garlic Bun",
+    "price": 120,
+    "description": "Garlicky cheesy bun baked till golden and fragrant.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 10,
+    "category": "BUN'S",
+    "name": "Bun Maska",
+    "price": 80,
+    "description": "Classic Irani-style bun maska with a generous butter layer.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 11,
+    "category": "NACHOS",
+    "name": "Cheese Nachos",
+    "price": 120,
+    "description": "Warm nachos loaded with molten cheese and mild spices.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 12,
+    "category": "NACHOS",
+    "name": "Loaded Nachos",
+    "price": 160,
+    "description": "A hearty platter of nachos with beans, veggies, cheese and sauces.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 13,
+    "category": "NACHOS",
+    "name": "Nachos Dip",
+    "price": 140,
+    "description": "Crisp nacho chips served with tangy, cheesy house dips.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 14,
+    "category": "NACHOS",
+    "name": "Nachos Bhel",
+    "price": 150,
+    "description": "A fun fusion of bhel flavours tossed with crunchy nachos.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 15,
+    "category": "FRIES",
+    "name": "Classic Salted Fries",
+    "price": 120,
+    "description": "Golden fries sprinkled with classic rock salt.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 16,
+    "category": "FRIES",
+    "name": "Peri Peri Fries",
+    "price": 140,
+    "description": "Crispy fries tossed in a zesty peri peri spice mix.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 17,
+    "category": "FRIES",
+    "name": "Cheese Fries",
+    "price": 170,
+    "description": "Fries generously drizzled with hot, melty cheese.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 18,
+    "category": "FRIES",
+    "name": "Tandoori Fries",
+    "price": 200,
+    "description": "Fries coated in smoky tandoori spices for a bold kick.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 19,
+    "category": "BURGER",
+    "name": "Aloo Tikki Burger",
+    "price": 120,
+    "description": "Crispy aloo tikki patty with lettuce, onions and sauces.",
+    "imageUrl": "/assets/burger.svg"
+  },
+  {
+    "id": 20,
+    "category": "BURGER",
+    "name": "Veg Burger",
+    "price": 140,
+    "description": "Classic veg patty burger with fresh salad and house mayo.",
+    "imageUrl": "/assets/burger.svg"
+  },
+  {
+    "id": 21,
+    "category": "BURGER",
+    "name": "Paneer Burger",
+    "price": 150,
+    "description": "Grilled paneer patty sandwiched in a soft, toasted bun.",
+    "imageUrl": "/assets/burger.svg"
+  },
+  {
+    "id": 22,
+    "category": "BURGER",
+    "name": "Chipotle Burger",
+    "price": 160,
+    "description": "Smoky chipotle flavoured burger with a spicy, creamy sauce.",
+    "imageUrl": "/assets/burger.svg"
+  },
+  {
+    "id": 23,
+    "category": "PASTA",
+    "name": "White Sauce Pasta",
+    "price": 160,
+    "description": "Creamy béchamel-based pasta with herbs and veggies.",
+    "imageUrl": "/assets/pasta.svg"
+  },
+  {
+    "id": 24,
+    "category": "PASTA",
+    "name": "Red Sauce Pasta",
+    "price": 160,
+    "description": "Tangy tomato-based pasta with Italian herbs and olives.",
+    "imageUrl": "/assets/pasta.svg"
+  },
+  {
+    "id": 25,
+    "category": "PASTA",
+    "name": "Pink Sauce Pasta",
+    "price": 160,
+    "description": "Best of both worlds – a creamy mix of white and red sauces.",
+    "imageUrl": "/assets/pasta.svg"
+  },
+  {
+    "id": 26,
+    "category": "PASTA",
+    "name": "Veggie Delight Pasta",
+    "price": 200,
+    "description": "Loaded with colourful veggies in a rich, comforting sauce.",
+    "imageUrl": "/assets/pasta.svg"
+  },
+  {
+    "id": 27,
+    "category": "GARLIC BREAD",
+    "name": "Cheese Garlic Bread",
+    "price": 120,
+    "description": "Oven-baked garlic bread topped with stretchy cheese.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 28,
+    "category": "GARLIC BREAD",
+    "name": "Cheese Corn Garlic Bread",
+    "price": 140,
+    "description": "Garlic bread topped with sweet corn and melted cheese.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 29,
+    "category": "GARLIC BREAD",
+    "name": "Farmhouse Garlic Bread",
+    "price": 160,
+    "description": "Hearty garlic bread with assorted veggies and cheese.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 30,
+    "category": "PIZZA",
+    "name": "Onion Pizza",
+    "price": 150,
+    "description": "Thin crust pizza topped with caramelised onions and cheese.",
+    "imageUrl": "/assets/pizza.svg"
+  },
+  {
+    "id": 31,
+    "category": "PIZZA",
+    "name": "Capsicum Pizza",
+    "price": 150,
+    "description": "Cheesy pizza with crunchy capsicum slices.",
+    "imageUrl": "/assets/pizza.svg"
+  },
+  {
+    "id": 32,
+    "category": "PIZZA",
+    "name": "Corn Pizza",
+    "price": 150,
+    "description": "Sweet corn kernels over a cheesy, saucy pizza base.",
+    "imageUrl": "/assets/pizza.svg"
+  },
+  {
+    "id": 33,
+    "category": "PIZZA",
+    "name": "Margherita Pizza",
+    "price": 170,
+    "description": "Classic Margherita with tomato, mozzarella and basil.",
+    "imageUrl": "/assets/pizza.svg"
+  },
+  {
+    "id": 34,
+    "category": "PIZZA",
+    "name": "Farmhouse Pizza",
+    "price": 220,
+    "description": "Loaded farmhouse style pizza with assorted veggies and cheese.",
+    "imageUrl": "/assets/pizza.svg"
+  },
+  {
+    "id": 35,
+    "category": "PIZZA",
+    "name": "Veggie Delight Pizza",
+    "price": 250,
+    "description": "A colourful, fully-loaded veg pizza with extra cheese.",
+    "imageUrl": "/assets/pizza.svg"
+  },
+  {
+    "id": 36,
+    "category": "MAGGI",
+    "name": "Masala Maggi",
+    "price": 90,
+    "description": "Comforting masala Maggi cooked to a slurpy perfection.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 37,
+    "category": "MAGGI",
+    "name": "Cheese Maggi",
+    "price": 100,
+    "description": "Maggi noodles with a rich, cheesy twist.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 38,
+    "category": "MAGGI",
+    "name": "Corn Cheese Maggi",
+    "price": 120,
+    "description": "Maggi tossed with sweet corn and melted cheese.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 39,
+    "category": "MAGGI",
+    "name": "Mexican Maggi",
+    "price": 120,
+    "description": "Maggi with a mildly spicy, Mexican-inspired flavour profile.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 40,
+    "category": "MAGGI",
+    "name": "Peri Peri Corn Maggi",
+    "price": 170,
+    "description": "Peri peri spiced Maggi loaded with sweet corn.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 41,
+    "category": "CHINESE",
+    "name": "Veg Hakka Noodles",
+    "price": 130,
+    "description": "Stir-fried noodles tossed with crunchy veggies in hakka style.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 42,
+    "category": "CHINESE",
+    "name": "Veg Fried Rice",
+    "price": 140,
+    "description": "Wok-tossed fried rice with colourful vegetables.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 43,
+    "category": "CHINESE",
+    "name": "Veg Chilli Garlic Noodles",
+    "price": 150,
+    "description": "Spicy chilli-garlic noodles packed with flavour.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 44,
+    "category": "CHINESE",
+    "name": "Veg Chilli Garlic Rice",
+    "price": 150,
+    "description": "Fried rice tossed in a bold chilli-garlic sauce.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 45,
+    "category": "CHINESE",
+    "name": "Schezwan Noodles",
+    "price": 150,
+    "description": "Fiery schezwan noodles with crunchy vegetables.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 46,
+    "category": "CHINESE",
+    "name": "Schezwan Rice",
+    "price": 150,
+    "description": "Spicy schezwan fried rice with a smoky wok flavour.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 47,
+    "category": "CHINESE",
+    "name": "Crispy Corn",
+    "price": 150,
+    "description": "Crispy-fried corn kernels tossed in spices.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 48,
+    "category": "CHINESE",
+    "name": "Manchurian Gravy / Dry",
+    "price": 160,
+    "description": "Veg Manchurian balls served either in gravy or dry style.",
+    "imageUrl": "/assets/snacks.svg"
+  },
+  {
+    "id": 49,
+    "category": "CHINESE",
+    "name": "Paneer Chilly Dry",
+    "price": 180,
+    "description": "Cubes of paneer tossed with onions, capsicum and chilli sauce.",
+    "imageUrl": "/assets/snacks.svg"
+  }
+]
