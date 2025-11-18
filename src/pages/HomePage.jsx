@@ -31,7 +31,8 @@ export default function HomePage() {
       <FadeIn>
         <section className="grid gap-10 md:grid-cols-2 md:items-center">
           <div className="space-y-6">
-          <Parallax speed={-8}>
+          {/* Use the same parallax speed so the label and heading keep their spacing and don't overlap */}
+          <Parallax speed={-4}>
             <p className="text-xs font-medium uppercase tracking-[0.3em] text-neutral-500">
               Crafted with care in Your City
             </p>
